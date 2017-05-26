@@ -1,7 +1,7 @@
 # codeSubmissionForm
 Portal that can be used by hackathons to acquire participants' code.
 ## Intially built for BIT's [AI Wars](ai.datron.me)
-![Screenshot](https://github.com/datron/codeSubmissionForm/capture.PNG)
+![Screenshot](https://github.com/Datron/codeSubmissionForm/blob/master/Capture.PNG)
 
 ## Getting started
 **Requirements**
